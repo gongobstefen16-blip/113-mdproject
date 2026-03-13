@@ -10,7 +10,7 @@ body {
 	font-family: verdana, arial;
 	background: #000000 url(/bg3.gif);
 	font-size: 8pt;
-	color: #ffffff;
+	color: #FFFFFF;
 
 	/* fade in page */
 	animation: fadeInPage 1.5s ease-in;
@@ -73,7 +73,7 @@ h3 {
 	voice-family: "\"}\"";
 	voice-family: inherit;
 	border: 10px solid #ffffff;
-	background: #000000 url(/zentop.gif) no-repeat top left;
+	background: #000000 url(/zentop1.gif) no-repeat top left;
 
 	/* floating animation */
 	animation: floatUpDown 4s ease-in-out infinite;
