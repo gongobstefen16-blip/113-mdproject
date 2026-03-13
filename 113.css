@@ -78,7 +78,7 @@ h3 {
 	background: #000000 url(/zentop.gif) no-repeat top left;
 
 	/* floating animation */
-	animation: floatUpDown 4s ease-in-out infinite;
+	animation: floatUpDown 2s ease-in-out infinite;
 }
 
 /* ============================= */
