@@ -2,7 +2,7 @@ body {
 	margin: 0px;
 	padding: 0px;
 	font-family: verdana, arial;
-	background: #000000 url(/bg3.gif)no-repeat;
+	background: #000000 url(bg3.gif)no-repeat;
 	background-size: cover;
 	font-size: 8pt;
 
@@ -69,7 +69,7 @@ h3 {
 	voice-family: "\"}\"";
 	voice-family: inherit;
 	border: 10px solid #ffffff;
-	background: #000000 url(/zentop.gif) no-repeat top left;
+	background: #000000 url(zentop.gif) no-repeat top left;
 
 	/* floating animation */
 	animation: floatUpDown 2s ease-in-out infinite;
@@ -102,7 +102,7 @@ header h1, header h2 {
 	padding: 14px;
 	font-size: 8pt;
 	text-transform: uppercase;
-	background: #000000 url(/bg2.gif);
+	background: #000000 url(bg2.gif);
 	color: #09ff00;
 	text-align: center;
 	top: 327px;
@@ -177,7 +177,7 @@ footer a:hover {
 
 .preamble h3 {
 	position: relative;
-	background: transparent url(/theroad.gif) no-repeat;
+	background: transparent url(theroad.gif) no-repeat;
 	margin-top: 10px;
 	height: 45px;
 	left: -10px;
@@ -185,7 +185,7 @@ footer a:hover {
 
 .explanation h3 {
 	position: relative;
-	background: transparent url(/sowhat.gif) no-repeat;
+	background: transparent url(sowhat.gif) no-repeat;
 	margin-top: 25px;
 	height: 45px;
 	left: -10px;
@@ -193,7 +193,7 @@ footer a:hover {
 
 .participation h3 {
 	position: relative;
-	background: transparent url(/parti.gif) no-repeat;
+	background: transparent url(parti.gif) no-repeat;
 	margin-top: 25px;
 	height: 45px;
 	left: -10px;
@@ -201,7 +201,7 @@ footer a:hover {
 
 .benefits h3 {
 	position: relative;
-	background: transparent url(/beni.gif) no-repeat;
+	background: transparent url(beni.gif) no-repeat;
 	margin-top: 25px;
 	height: 45px;
 	left: -10px;
@@ -209,7 +209,7 @@ footer a:hover {
 
 .requirements h3 {
 	position: relative;
-	background: transparent url(/reqs.gif) no-repeat;
+	background: transparent url(reqs.gif) no-repeat;
 	margin-top: 25px;
 	height: 45px;
 	left: -10px;
@@ -240,7 +240,7 @@ footer a:hover {
 	position: absolute;
 	top: 395px;
 	left: 457px;
-	background: transparent url(/top-menu.gif) no-repeat;
+	background: transparent url(top-menu.gif) no-repeat;
 	height: 400px;
 }
 
@@ -253,7 +253,7 @@ footer a:hover {
 
 .design-selection ul li {
 	padding: 0px 0px 0px 16px;
-	background: url(/arrow.gif) no-repeat 6px 2px;
+	background: url(arrow.gif) no-repeat 6px 2px;
 	margin-bottom: 5px;
 	transition: transform 0.3s ease;
 }
@@ -267,7 +267,7 @@ footer a:hover {
 	position: absolute;
 	top: 725px;
 	left: 457px;
-	background: transparent url(/mid-menu.gif) no-repeat;
+	background: transparent url(mid-menu.gif) no-repeat;
 	height: 200px;
 	text-transform: capitalize;
 }
@@ -277,7 +277,7 @@ footer a:hover {
 	position: absolute;
 	top: 847px;
 	left: 457px;
-	background: transparent url(/bot-menu.gif) no-repeat;
+	background: transparent url(bot-menu.gif) no-repeat;
 	height: 200px;
 }
 
