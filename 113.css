@@ -52,7 +52,7 @@ h3 {
 .benefits h3,
 .requirements h3 {
 	text-shadow: 0 0 5px #09ff00, 0 0 10px #09ff00, 0 0 15px #09ff00;
-	transition: all 0.3s ease;
+	transition: all 100s ease;
 }
 
 .preamble h3:hover,
@@ -163,7 +163,7 @@ footer a:hover {
 .participation,
 .benefits,
 .requirements {
-	width: 440px;
+	width: 600px;
 	text-align: justify;
 
 	/* slide up + float */
